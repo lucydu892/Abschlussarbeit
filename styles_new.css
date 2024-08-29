@@ -1,0 +1,6 @@
+body {
+    background-color: black;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 100px,auto;
+}
